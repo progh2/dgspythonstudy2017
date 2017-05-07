@@ -2,7 +2,7 @@ class Person:
 	type = "사람"
 
 	def __init__(self, name="무명씨"):
-		self.name = "무명씨"
+		self.name = name
 
 	def setName(self, name):
 		self.name = name
@@ -17,7 +17,7 @@ class Student(Person):
 	type = "학생"
 
 	def __init__(self, name="무명씨", grade = 1):
-		self.name = "무명씨"
+		self.name = name
 		self.grade = grade
 	
 	def study(self, n = 1):
@@ -30,7 +30,7 @@ class Teacher(Person):
 	type = "선생님"
 
 	def __init__(self, name="무명씨", major="공통"):
-		self.name = "무명씨"
+		self.name = name
 		self.major = major
 
 	def teach(self):
@@ -42,7 +42,7 @@ class Teacher(Person):
 class Hero(Person):
 	type = "영웅"
 	def __init__(self, name="무명씨", skillname="허찌르기!"):
-		self.name = "무명씨"
+		self.name = name
 		self.skillname = skillname
 	
 	def skill(self):
