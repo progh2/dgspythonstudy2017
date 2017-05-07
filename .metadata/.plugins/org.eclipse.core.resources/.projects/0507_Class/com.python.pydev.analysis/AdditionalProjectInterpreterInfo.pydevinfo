@@ -1,0 +1,66 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/progh2/dgspythonstudy2017/.metadata/.plugins/org.eclipse.core.resources/.projects/0507_Class/com.python.pydev.analysis/v2_indexcache
+classexample_ham|1494123040000000000|/Users/progh2/dgspythonstudy2017/0507_class/classexample_ham.py
+FourCal|1494122838000000000|/Users/progh2/dgspythonstudy2017/0507_class/FourCal.py
+Cal|1494121985000000000|/Users/progh2/dgspythonstudy2017/0507_class/Cal.py
+-- END DISKCACHE
+-- START DICTIONARY
+15
+12=Person.__init__
+3=classexample_ham
+9=FourCal.setdata
+6=Teacher
+11=Teacher.__init__
+1=FourCal
+5=Student
+2=Cal
+13=Person.setName
+14=Hero.__init__
+8=Calculator
+7=Hero
+4=Person
+10=Student.__init__
+15=Calculator.__init__
+-- END DICTIONARY
+-- START TREE 1
+14
+a|1|a!11@
+b|1|b!11@
+cal|3|cal1!19@Calculator!17@cal2!19@
+fou|1|FourCal!9@
+h1|1|h1!27@
+h2|1|h2!27@
+her|1|Hero!25@
+p1|1|p1!27@
+per|1|Person!25@
+s1|1|s1!27@
+s2|1|s2!27@
+stu|1|Student!25@
+t|1|t!27@
+tea|1|Teacher!25@
+-- END TREE
+-- START TREE 2
+21
+__i|5|__init__!4&26@__init__!5&26@__init__!6&26@__init__!7&26@__init__!8&18@
+add|1|adder!8&18@
+div|1|div!1&10@
+dra|1|draft!6&26@
+fir|1|first!9&11@
+get|1|getName!4&26@
+gra|1|grade!10&27@
+gre|1|greeting!4&26@
+maj|1|major!11&27@
+mul|1|mul!1&10@
+nam|5|name!12&27@name!13&27@name!10&27@name!11&27@name!14&27@
+pla|1|play!5&26@
+res|1|result!15&19@
+sec|1|second!9&11@
+set|2|setdata!1&10@setName!4&26@
+ski|2|skill!7&26@skillname!14&27@
+stu|1|study!5&26@
+sub|1|sub!1&10@
+sum|1|sum!1&10@
+tea|1|teach!6&26@
+typ|4|type!4&27@type!5&27@type!6&27@type!7&27@
+-- END TREE
