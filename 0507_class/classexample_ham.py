@@ -18,13 +18,12 @@ class Person:
 
 	# 멤버변수 name과 클래스변수 type을 활용해서 인사하는 메소드
 	def greeting(self):
-		# 클래스 변수는 바로 변수명을 사용해서 사용할 수 있습니다. 
-		print("안녕하세요~ 저는 %s인 %s 입니다!" % (type, self.name))
-		# 아래 2개도 똑같이 동작합니다. 
-		# 클래스 변수 type을 강조
-		# print("안녕하세요~ 저는 %s인 %s 입니다!" % (Person.type, self.name))
 		# 클래스 변수는 멤버 변수로도 참조가 가능합니다. 
-		# print("안녕하세요~ 저는 %s인 %s 입니다!" % (self.type, self.name))
+		print("안녕하세요~ 저는 %s인 %s 입니다!" % (self.type, self.name))
+		# 아래 2개도 똑같이 동작합니다. 
+		# 클래스 변수 type을 강조. 다만 각 클래스마다 각각 만들어줘야 합니다.
+		# print("안녕하세요~ 저는 %s인 %s 입니다!" % (Person.type, self.name))
+
 
 # Person클래스를 상속받은 학생 클래스
 class Student(Person):
