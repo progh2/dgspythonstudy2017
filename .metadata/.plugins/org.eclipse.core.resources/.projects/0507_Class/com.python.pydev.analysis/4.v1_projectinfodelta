@@ -1,0 +1,11 @@
+INSTUPFamily
+/Users/progh2/dgspythonstudy2017/0507_Class/Family.py
+INFOS:&&1|1|2|0&&3|3|2|1&&2|4|2|1&&3|5|2|6&&2|7|2|1&&3|8|2|0
+me=8
+Family=2
+OurFamily.__init__=6
+OurFamily=1
+fullname=5
+__init__=4
+travel=7
+lastname=3
