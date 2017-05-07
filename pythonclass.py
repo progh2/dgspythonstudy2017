@@ -50,29 +50,30 @@ class Hero(Person):
 
 	
 
-#class Student:
-#	def __init__(self):
-
-p1 = Person()
-p1.greeting()
-
-s1 = Student()
-s1.greeting()
-
-s2 = Student("맹구", 3)
-s2.greeting()
-s2.study()
-s2.play()
-s2.study(3)
-s2.study(3)
-
-t = Teacher("함기훈", "프로그래밍")
-t.greeting()
-t.draft()
-t.teach()
-t.draft(100)
-
-
-h = Hero("사이타마", "잔심펀치!")
-h.greeting()
-h.skill()
+if __name__ == "__main__":
+        p1 = Person()
+	p1.greeting()
+	
+	s1 = Student()
+	s1.greeting()
+	
+	s2 = Student("맹구", 3)
+	s2.greeting()
+	s2.study()
+	s2.play()
+	s2.study(3)
+	s2.study(3)
+	
+	t = Teacher("함기훈", "프로그래밍")
+	t.greeting()
+	t.draft()
+	t.teach()
+	t.draft(100)
+	
+	h1 = Hero("제로스", "소각")
+	h1.greeting()
+	h1.skill()
+	
+	h2 = Hero("사이타마", "잔심펀치!")
+	h2.greeting()
+	h2.skill()
