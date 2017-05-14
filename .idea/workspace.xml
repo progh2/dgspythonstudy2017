@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f602e66-d7b9-4de6-8658-069e8dc1aa4e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/0514_crawler/crawler/euc.py" afterPath="$PROJECT_DIR$/0514_crawler/crawler/euc.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/0514_crawler/crawler/main.py" afterPath="$PROJECT_DIR$/0514_crawler/crawler/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,14 +26,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0514_crawler/crawler/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-203">
-              <caret line="17" column="84" lean-forward="false" selection-start-line="17" selection-start-column="84" selection-end-line="17" selection-end-column="84" />
-              <folding>
-                <element signature="e#12#34#0" expanded="true" />
-              </folding>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="261">
+                <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -50,11 +49,13 @@
       <list>
         <option value="$PROJECT_DIR$/0514_crawler/crawler/euc.py" />
         <option value="$PROJECT_DIR$/0514_crawler/crawler/main.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
+    <option name="x" value="69" />
+    <option name="y" value="265" />
     <option name="width" value="1292" />
     <option name="height" value="767" />
   </component>
@@ -95,38 +96,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dgspythonstudy2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dgspythonstudy2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="0514_crawler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dgspythonstudy2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dgspythonstudy2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="0514_crawler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="crawler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -134,7 +103,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dgsdjangostudy2017" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -273,7 +242,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1292" height="767" extended-state="0" />
+    <frame x="69" y="265" width="1292" height="767" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -304,6 +273,16 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/0514_crawler/crawler/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-203">
+          <caret line="17" column="84" lean-forward="false" selection-start-line="17" selection-start-column="84" selection-end-line="17" selection-end-column="84" />
+          <folding>
+            <element signature="e#12#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/0514_crawler/crawler/euc.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -314,13 +293,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0514_crawler/crawler/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-203">
-          <caret line="17" column="84" lean-forward="false" selection-start-line="17" selection-start-column="84" selection-end-line="17" selection-end-column="84" />
-          <folding>
-            <element signature="e#12#34#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="261">
+            <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
